@@ -1,8 +1,23 @@
-Thank you for using our template!
+# Personal Portfolio Website
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+This is my **personal portfolio website frontend**, developed to showcase my skills, projects, and experience as a frontend developer.  
+The website is designed with a clean UI, responsive layout, and smooth user interactions.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+
+## 🚀 Features
+
+- Fully responsive design (mobile, tablet, desktop)  
+- Clean and modern UI/UX  
+- About Me section  
+- Skills and projects showcase  
+- Contact section  
+- Interactive elements using JavaScript  
+
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Website structure  
+- **CSS3** – Styling, layout, and responsiveness  
+- **JavaScript (Vanilla JS)** – Interactivity and dynamic behavior  
+
